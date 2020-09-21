@@ -2,10 +2,10 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(int)
   if int % 3 == 0
-    "Fizz" do
+    "Fizz"
   if condition
      int % 5 == 0
-    "Buzz" do
+    "Buzz"
     end
   end
 end
